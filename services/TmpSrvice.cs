@@ -7,6 +7,9 @@ namespace consapp.services
 {
     public class TmpSrvice
     {
-        
+        public TmpSrvice()
+        {
+            Console.WriteLine("Hello, World2!");
+        }
     }
 }
